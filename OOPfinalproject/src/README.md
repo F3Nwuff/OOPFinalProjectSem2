@@ -1,7 +1,9 @@
 uml diagram
 https://miro.com/app/board/uXjVMB3SYvE=/?share_link_id=951233841382
+
 background image:
 https://www.pexels.com/photo/brown-wooden-parquet-flooring-129731/
+
 button images (drawn by myself):
 1. https://www.pixilart.com/art/try-sr28a3b453fd5b4
 2. https://www.pixilart.com/art/start-sr2c8eb0a0d111f
